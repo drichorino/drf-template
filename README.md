@@ -1,6 +1,5 @@
 
-# HUMAN RESOURCES INFORMATION SYSTEM
-An HRIS project made in Django, offering a robust platform for employee management, payroll, benefits, and performance tracking.
+# DRF Template
 
 ## Getting Started
 
