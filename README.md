@@ -16,7 +16,7 @@ This template is for a Django REST project that includes basic CRUD user operati
 1. Clone the repository:
     ```sh
     git clone https://github.com/drichorino/drf-template.git
-    cd backend
+    cd drf-template
     ```
 
 2. Create a virtual environment and activate it:
