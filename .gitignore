@@ -1,0 +1,134 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+bin/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+*.pyo
+*.sqlite3
+
+# If your build process includes running collectstatic, you probably don't want staticfiles/ in git.
+# comment out this line if you want to track static files in git.
+staticfiles/
+
+# Ignore the local SQLite database
+db.sqlite3
+
+# # Ignore Django migrations
+# **/migrations/*.py
+# !**/migrations/__init__.py
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# Virtual environment
+venv/
+
+# Environment variables file
+.env
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# Environments
+.env
+.env.uat
+.env.prod
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Pytest
+.pytest_cache/
+htmlcov/
+.tox/
+nox/
+.coverage
+coverage.xml
+*.cover
+.hypothesis/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Django static and media files
+/static/
+media/
+
+# Translations
+*.mo
+*.pot
+
+# Logs and records
+*.log
+*.out
+*.pid
+*.gz
+*.bz2
+*.zip
+*.tar
+*.7z
+*.rar
+*.swp
+*.swo
+*.patch
+
+# IDEs
+.vscode/
+.idea/
+
+# Linting
+.pylint.d/
+.mypy_cache/
+.dmypy.json
+.mypy/
+pylint.report
+pylint.log
+
+# Coverage reports
+.coverage
+*.cover
+.hypothesis/
+.pytest_cache/
